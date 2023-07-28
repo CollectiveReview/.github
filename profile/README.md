@@ -30,6 +30,6 @@ These are curated lists about science ecosystem. We kindly encourage you to cons
 - [awesome DeSci](https://github.com/CollectiveReview/awesome-desci) - 
 
 ### Discussions
-There are proposals and discussions about science ecosystem. [Submit your idea]().
+There are proposals and discussions about science ecosystem. Submit your idea through [issues](). In a few days we will create and invite you to repository
 - [Collective Review](https://github.com/CollectiveReview/citizen-science) -
 - [Citizen Science](https://github.com/CollectiveReview/collective-review) - 
