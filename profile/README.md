@@ -26,10 +26,10 @@ Remember, everyone you're working with is a volunteer! Patience and kindness go 
 ## 👩‍💻 Useful resources
 ### Awesomes
 These are curated lists about science ecosystem. We kindly encourage you to consider contributing to these first!
-- [awesome SciSci]() - 
-- [awesome DeSci]() - 
+- [awesome SciSci](https://github.com/CollectiveReview/awesome-scisci) - 
+- [awesome DeSci](https://github.com/CollectiveReview/awesome-desci) - 
 
 ### Discussions
 There are proposals and discussions about science ecosystem. [Submit your idea]().
-- [Collective Review]() -
-- [Citizen Science]() - 
+- [Collective Review](https://github.com/CollectiveReview/citizen-science) -
+- [Citizen Science](https://github.com/CollectiveReview/collective-review) - 
